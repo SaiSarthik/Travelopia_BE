@@ -1,4 +1,4 @@
-# Project Name
+# Enchanting Travels assignment
 
 Short project description goes here.
 
