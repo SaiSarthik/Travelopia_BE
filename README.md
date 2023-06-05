@@ -19,6 +19,8 @@ To install the project dependencies, run the following command:
 npm install
 API Endpoints
 
+
+To start the server use: npm start
 Dependencies
 
     Express.js
